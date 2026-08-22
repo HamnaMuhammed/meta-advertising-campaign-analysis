@@ -47,3 +47,17 @@ The project involved comparing campaign performance across industries and advert
 ## Skills Demonstrated
 
 Excel | Data Analysis | Data Visualization | Marketing Analytics | Business Insights | Comparative Analysis
+
+## Visualizations
+
+### Average CTR by Industry
+
+![Average CTR by Industry](screenshots/average-ctr-by-industry.png)
+
+### Average Conversions by Industry
+
+![Average Conversions by Industry](screenshots/average-conversions-by-industry.png)
+
+### Average Conversions by Advertisement Format
+
+![Average Conversions by Advertisement Format](screenshots/average-conversions-by-ad-format.png)
